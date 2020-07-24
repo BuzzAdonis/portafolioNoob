@@ -43,7 +43,6 @@ this.filtrarProductos(termino)
     
   }
   private filtrarProductos(termino:string){
-   console.log(this.producto)
    this.productosFiltrados=[];
    termino = termino.toLocaleLowerCase();
    this.producto.forEach(prod=>{
