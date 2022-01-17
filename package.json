@@ -1,5 +1,5 @@
 {
-  "name": "portafolio",
+  "name": "portafolioNoob",
   "version": "0.0.0",
   "scripts": {
     "heroku-postbuild": "ng build --prod",
