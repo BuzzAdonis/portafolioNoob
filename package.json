@@ -2,7 +2,7 @@
   "name": "portafolioNoob",
   "version": "0.0.0",
   "scripts": {
-    "heroku-postbuild": "ng build --prod",
+    "heroku-postbuild": "ng build — prod",
     "start": "node server.js",
     "ng": "ng",
     "build": "ng build",
@@ -11,7 +11,7 @@
     "e2e": "ng e2e"
   },
   "engines": {
-    "node": "16.13.2",
+    "node": "14.17.0",
     "npm": "6.14.13"
   },
   "private": true,
